@@ -1,10 +1,10 @@
-title: Streamdata Gallery Crawler
-url: crawler.streamdata.gallery
-tag: Crawler
+title: Streamdata Gallery Crawlers
+url: crawlers.streamdata.gallery
+tag: Crawlers
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: crawler
+github_repo: crawlers
 github_branch: master
 collections:
   listings:
